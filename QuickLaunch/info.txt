@@ -1,0 +1,5 @@
+Name | Path | Description | Method
+ij | C:\Users\Public\Desktop\IntelliJ IDEA Community Edition 2021.3.lnk | Opens IntelliJ IDEA | 1
+DS | C:\Users\ephar\Data Science\probability notes.xlsx | Opens Data Science lecture notes | 1
+uat | https://synchronic.uat.edu | Opens UAT portal | 2
+notepad | C:\Program Files\Notepad++\Notepad++.exe | Opens Notepad++ | 1
