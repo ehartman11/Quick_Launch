@@ -1,0 +1,10 @@
+Name | Path | Description
+QL|C:\Users\ephar\QL|open the QL folder 
+UAT|http://synchronic.uat.edu|open UAT portal 
+moro|http://localhost:8000/webpage/public/index.php|opens moro application 
+chat|https://chatGPT.com|opens chatGPT 
+git|https://github.com/ehartman11|opens Github 
+notepad++|C:\Program Files\Notepad++\notepad++.exe|opens notepad++ 
+excel|C:\Program Files\Microsoft Office\root\Office16\Excel.exe|opens Excel 
+word|C:\Program Files\Microsoft Office\root\Office16\WINWORD.EXE|Open Microsoft Word 
+powerpoint|C:\Program Files\Microsoft Office|Open Microsoft powerpoint 
